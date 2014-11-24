@@ -1,0 +1,11 @@
+{
+  "name": "jquery-simple-treepicker",
+  "version": "0.0.1",
+  "main": [
+    "jquery.simple-tree-picker.css"
+    "jquery.simple-tree-picker.js"
+  ],
+  "dependencies": {
+    "jquery": ">1.10",
+  }
+}
